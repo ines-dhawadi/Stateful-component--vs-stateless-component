@@ -9,7 +9,7 @@ const  Comp = (props) => {
 
  }
 
-export default Comp  */}
+export default Comp
 
 {/******************* */}
 
@@ -26,3 +26,4 @@ export default Test
 
 {/***---------------composants à base de classe--------- */}
  
+
